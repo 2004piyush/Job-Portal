@@ -1,4 +1,3 @@
-import React from 'react';
 import { MapPin, Clock, DollarSign, Bookmark } from 'lucide-react';
 
 const FeaturedJobs = () => {
