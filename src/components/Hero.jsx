@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Search, MapPin, Briefcase } from 'lucide-react';
+import { useState } from 'react';
+import { Search, MapPin } from 'lucide-react';
 
 const Hero = () => {
   const [searchTerm, setSearchTerm] = useState('');
